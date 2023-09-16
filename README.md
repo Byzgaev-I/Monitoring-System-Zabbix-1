@@ -18,7 +18,7 @@
 
  **Решение**
  
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/Снимок%20экрана%202023-09-16%20в%2015.15.15.png)
 
 ---
 
