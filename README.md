@@ -17,7 +17,8 @@
 Приложите в файл README.md текст использованных команд в GitHub.
 
  **Решение**
-
+ 
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 
 ---
 
