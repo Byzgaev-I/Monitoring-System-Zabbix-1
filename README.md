@@ -24,6 +24,16 @@
 
 ![Image alt](https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/img/Снимок%20экрана%202023-09-16%20в%2015.15.15.png)
 
+git add .
+git commit -m "Readme.md"
+git push
+
+git status
+
+git add .
+git commit -m "Update Readme"
+git push
+
 ---
 
 ### Задание 2
