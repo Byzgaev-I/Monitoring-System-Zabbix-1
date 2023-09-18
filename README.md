@@ -61,4 +61,21 @@ git push
 
 ![Image alt](https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/Конф_Хост.png)
 
+Скриншот лога zabbix agent, где видно, что он работает с сервером
 
+![Image alt](https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/Лог.png)
+
+Скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
+
+![Image alt](https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/Latest%20Data.png)
+
+ git add .     
+ git commit -m "Readme.md"    
+ git push   
+ 
+ git status
+ 
+ git add .     
+ git commit -m "Update Readme"    
+ git push  
+ 
