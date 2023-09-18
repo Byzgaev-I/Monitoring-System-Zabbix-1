@@ -24,7 +24,7 @@
 
 ![Image alt](https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/Авторизация%202.png)
 
-GiyHub только овладеваю, так как домашки в других группах сдавал ссылками на гугл хранилище.
+GitHub только овладеваю, так как домашки в других группах сдавал ссылками на гугл хранилище.
 Пользуюсь GitKraken, GitHub Desktop ну и через терминал.
 
 git add  
