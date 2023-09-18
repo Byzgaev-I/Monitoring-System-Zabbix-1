@@ -55,6 +55,6 @@ git push
 
 Установил агент на две виртуальные машины.
 
-![Image alt]([https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/Агент%20на%202%20машины.png)
+![Image alt](https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/Агент%20на%202%20машины.png)
 
 
