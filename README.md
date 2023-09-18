@@ -21,9 +21,9 @@
  Zabbix server устанавливал в последовательности лекции Артура Сагутдинова, но с учетом 12 версии Debian (bookworm) 
  (Разница между скриншотами большая, ибо командировки не давали возможность вовремя учиться)
  
-![Image alt](https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/img/Снимок%20экрана%202023-08-22%20в%2002.40.55.png)
+![Image alt](
 
-![Image alt](https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/img/Снимок%20экрана%202023-09-16%20в%2015.15.15.png)
+![Image alt](
 
 git add  
 git commit -m "Readme.md"  
