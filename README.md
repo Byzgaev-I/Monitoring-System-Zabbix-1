@@ -57,4 +57,8 @@ git push
 
 ![Image alt](https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/Агент%20на%202%20машины.png)
 
+Скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
+
+![Image alt](https://github.com/Byzgaev-I/Monitoring-System-Zabbix-1/blob/main/Конф_Хост.png)
+
 
